@@ -1,4 +1,4 @@
-package com.rgb.example.tmdbclient.presentation.di.movie
+package com.rgb.example.tmdbclient.presentation.movie
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
